@@ -1,11 +1,6 @@
 [
 
-  {
-    "Identifier": "AWSApp2Container",
-    "Name": "AWS App2Container",
-    "Family": "Compute",
-    "Description": "Containerize and migrate existing applications"
-  },
+
   {
     "Identifier": "AWSAppFabric",
     "Name": "AWS AppFabric",
