@@ -1,10 +1,5 @@
 [
-  {
-    "Identifier": "AWSAmplify",
-    "Name": "AWS Amplify",
-    "Family": "Front-End Web & Mobile",
-    "Description": "Build scalable mobile and web apps fast, with endless flexibility"
-  },
+
   {
     "Identifier": "AWSApp2Container",
     "Name": "AWS App2Container",
