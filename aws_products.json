@@ -1,5 +1,11 @@
 [
 
+  {
+    "Identifier": "NewAWSAppMesh",
+    "Name": "New AWS App Mesh",
+    "Family": "New Networking & Content Delivery",
+    "Description": "New Easily monitor and control microservices"
+  },
 
   {
     "Identifier": "AWSAppMesh",
