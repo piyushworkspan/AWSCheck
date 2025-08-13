@@ -2,12 +2,6 @@
 
 
   {
-    "Identifier": "AWSAppFabric",
-    "Name": "AWS AppFabric",
-    "Family": "Business Applications",
-    "Description": "AWS AppFabric connects multiple SaaS applications with no coding required for better productivity and security"
-  },
-  {
     "Identifier": "AWSAppMesh",
     "Name": "AWS App Mesh",
     "Family": "Networking & Content Delivery",
